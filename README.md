@@ -1,4 +1,4 @@
-# PIZZA!
+# PIZZA
 
 App to practise Redux as addition to React. An awesome Javascript framework I ❤️ to use. 
 
